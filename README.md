@@ -1,8 +1,8 @@
 # pybulletX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHubCI](https://github.com/fairinternal/pybulletX/workflows/CI/badge.svg)](https://github.com/fairinternal/pybulletX/actions)
-[![CircleCI](https://circleci.com/gh/fairinternal/pybulletX.svg?style=shield&circle-token=ad4f47a46ed4cc4ff976cdd2f79fcf7ef4494459)](https://circleci.com/gh/fairinternal/pybulletX)
+[![GitHubCI](https://github.com/facebookresearch/pybulletX/workflows/CI/badge.svg)](https://github.com/facebookresearch/pybulletX/actions)
+[![CircleCI](https://circleci.com/gh/facebookresearch/pybulletX.svg?style=shield&circle-token=ad4f47a46ed4cc4ff976cdd2f79fcf7ef4494459)](https://circleci.com/gh/facebookresearch/pybulletX)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 The lightweight pybullet wrapper for robotics researchers.

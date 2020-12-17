@@ -11,7 +11,7 @@ There are two control panels provided in `px.gui`:
 
 This saves you the trouble of creating slider for each joint by using `p.addUserDebugParameter` and ...
 
-The examples in this tutorial are available [here](https://github.com/fairinternal/pybulletX/blob/master/examples/control_panel.py).
+The examples in this tutorial are available [here](https://github.com/facebookresearch/pybulletX/blob/master/examples/control_panel.py).
 
 ```python
 import pybulletX as px

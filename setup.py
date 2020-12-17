@@ -24,7 +24,7 @@ setup(
     description="A Pythonic wrapper for pybullet",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/fair-robotics/core",
+    url="https://github.com/facebookresearch/pybulletX",
     packages=find_packages(),
     install_requires=install_requires,
     include_package_data=True,

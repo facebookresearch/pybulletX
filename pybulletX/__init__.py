@@ -1,5 +1,5 @@
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
-__version__ = "0.4.0"
+__version__ = "0.4.1"
 
 from .joint_info import JointInfo  # noqa: F401
 from .joint_state import JointState  # noqa: F401
