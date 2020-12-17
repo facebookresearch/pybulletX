@@ -1,0 +1,26 @@
+# Copyright (c) Facebook, Inc. and its affiliates.
+
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
+version: 2.1
+
+jobs:
+  py37_linux:
+    docker:
+      - image: circleci/python:3.7
+    steps:
+      - checkout
+      - run:
+          name: Test pybulletX
+          command: |
+            pip3 install -U pip
+            pip3 install -e .
+            pip3 install -r requirements-dev.txt
+            pytest
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - py37_linux

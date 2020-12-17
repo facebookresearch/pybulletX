@@ -1,0 +1,8 @@
+*.egg-info
+
+*.pyc
+__pycache__
+
+bazel-*
+
+.coverage

@@ -1,0 +1,4 @@
+pybullet >= 2.8.1
+numpy >= 1.18.5
+attrdict >= 2.0.1
+gym >= 0.17.2
