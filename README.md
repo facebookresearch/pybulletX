@@ -9,6 +9,19 @@ The lightweight pybullet wrapper for robotics researchers.
 Build robot simulation with less code.
 Scale your research with less boilerplate.
 
+## Installation
+
+The preferred way of installation is through PyPi:
+```bash
+pip install pybulletX
+```
+
+Alternatively, you can clone the repository and install the package using:
+```bash
+git clone https://github.com/facebookresearch/pybulletX.git 
+cd pybulletX/ && pip install -e .
+```
+
 ## Examples
 Here is an example of controlling Kuka arm with PyBulletX.
 
