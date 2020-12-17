@@ -4,6 +4,9 @@
 [![GitHubCI](https://github.com/facebookresearch/pybulletX/workflows/CI/badge.svg)](https://github.com/facebookresearch/pybulletX/actions)
 [![CircleCI](https://circleci.com/gh/facebookresearch/pybulletX.svg?style=shield&circle-token=ad4f47a46ed4cc4ff976cdd2f79fcf7ef4494459)](https://circleci.com/gh/facebookresearch/pybulletX)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/facebookresearch/pybulletX.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/facebookresearch/pybulletX/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/facebookresearch/pybulletX.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/facebookresearch/pybulletX/context:python)
+
 
 The lightweight pybullet wrapper for robotics researchers.
 Build robot simulation with less code.
